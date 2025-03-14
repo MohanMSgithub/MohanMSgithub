@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @MohanMSgithub
-- 👀 I’m interested in developing innovative solutions in Machine Learning, Web Development, and Database Management.
-- 🌱 I’m currently learning Machine Learning techniques and diving deeper into full-stack web development frameworks.
-- 💞️ I’m looking to collaborate on open-source projects, particularly those involving Java, Python, or Machine Learning.
-- 📫 How to reach me mohanms1120@gmail.com
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love experimenting with new programming languages and frameworks just to see what I can build in a weekend!
+👋 Hi, I’m @MohanMSgithub  
+👀 I’m passionate about software development, cloud platforms, and scalable applications.  
+🌱 I’m currently improving my skills in Java, databases, and Spring Boot while exploring backend infrastructure.  
+💞️ I’m looking to collaborate on projects related to backend development and web applications.  
+
+📫 How to reach me: mohanms1120@gmail.com  
+😄 Pronouns: He/Him.  
+⚡ Fun fact: I enjoy building and optimizing backend systems for fun, and I'm always exploring new technologies to improve efficiency!  
+
 
 <!---
 MohanMSgithub/MohanMSgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
