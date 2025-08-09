@@ -60,7 +60,7 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mohanmsgithub&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanmsgithub&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanmsgithub&" alt="mohan" />
 </div>
 
 
